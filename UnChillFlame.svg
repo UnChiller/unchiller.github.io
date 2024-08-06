@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        path {
+            stroke: #3f002f;
+            stroke-width: 4;
+            stroke-linecap: round;
+            stroke-miterlimit: 10;
+        }
+    </style>
+    <path d="M40,135 C40,99 51,79 55,59 77,61 92,40 100,8 106,33 123,64 145,49 149,73 160,95 160,135 A60 60 180 0 1 40,135" fill="#bf1f00"/>
+    <path d="M60,135 C60,115 65,101 70,82 87,95 125,88 130,73 134,95 140,111 140,135 A40 40 180 0 1 60,135" fill="#ff5f00"/>
+    <path d="M80,135 C80,119 84,115 85,105 91,116 120,111 120,135 A20 20 180 0 1 80,135" fill="#ffbf00"/>
+</svg>
